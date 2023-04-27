@@ -1,0 +1,13 @@
+﻿global using Application.DTOs;
+global using Application.Repository;
+global using Application.Services;
+global using Domain.Entities;
+global using Infrastructure.Context;
+global using Microsoft.EntityFrameworkCore;
+global using System.Linq.Expressions;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Infrastructure.Repsoitory;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Configuration;
+global using Domain.ValueObjects;
+global using Application.Commands;
